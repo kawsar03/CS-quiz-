@@ -1,0 +1,6 @@
+Student name: Kawsar Latif
+Student age: 17
+Student year group: 13
+Student username: Kaw17
+Student's password: kawsar
+Quiz taken by student: Medium

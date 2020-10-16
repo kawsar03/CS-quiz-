@@ -1,0 +1,32 @@
+
+Computer science quiz - Hard
+
+Q1) What letters are used in binary
+	a)G
+	b)K
+	c)V
+	d)Trick question, only numbers are used in binary
+
+Q2) What language does the computer understand
+	a)Denary
+	b)Python
+	c)C++
+	d)Binary
+
+Q3) Base 10 numbers are often called
+	a)decimals and denary
+	b)binary
+	c)hexadecimal
+	d)javascript
+
+Q4) Hexadecimal means...
+	a)Base 20
+	b)Base 5
+	c)Base 10
+	d)Base 16
+
+Q5) How many bits are in a byte?
+	a)4
+	b)16
+	c)8
+	d)Trick question, a bit is bigger than a byte

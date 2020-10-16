@@ -1,0 +1,27 @@
+
+Computer science quiz - Medium!
+
+Q1) When sending files across the internet they are broken into packets of:
+	a)2gb
+	b)512mb
+	c)256mb
+
+Q2) What does DNS technology do whne we enter web address into our web browser?
+	a)Translate it into an IP address
+	b)Give out an error code
+	c)Show the source code for the browser
+
+Q3) When using a laptop and moving around your Ip address will... 
+	a)Stay the same
+	b)Convert to a MAC address 
+	c) Change each time you move
+
+Q4) Every networked device has a unique...
+	a)IP address
+	b)WiFi connection
+	c)MAC address
+
+Q5) When a packet that has been sent isn't recieved and is lost it will...
+	a)All the rest will fail to send
+	b)Send out error codes until the program crashes
+	c) Automatically resend

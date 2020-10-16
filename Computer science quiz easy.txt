@@ -1,0 +1,23 @@
+
+Computer Science Quiz - Easy!
+
+Q1)Is there RAM in a PC
+	a) Yes
+	b) No
+
+Q2)What does the CPU stand for?
+	a)Computing polluting understanding
+	b)Central processing unit
+
+Q3)What is the next part of the process
+   Fetch-Decode-_________
+	a)Scrambled Eggs
+	b)Execute
+
+Q4)What does the CU (Control unit) do?
+	a)Cools down the computer
+	b)Coordinate all the activities taking place within the CPU
+
+Q5)What is temporarily stored in the accumulator?
+	a)potatoes
+	b)arithmetic and logic results 
